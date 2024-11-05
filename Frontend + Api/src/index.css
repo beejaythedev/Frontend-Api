@@ -1,0 +1,32 @@
+.container{
+    width: 50%;
+    height: 300px;
+    margin: 100px auto 0;
+    
+
+}
+.container h1{
+    text-align: center;
+    margin-bottom: 70px;
+}
+.container .search{
+    width: 90%;
+    margin: auto;
+}
+.container input{
+    width: 80%;
+    padding: 10px;
+}
+.btn{
+    padding: 10px 15px;
+    margin-left: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.data{
+    font-size: 20px;
+    width: 40%;
+    margin: 70px auto;
+}
